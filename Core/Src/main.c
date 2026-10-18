@@ -59,12 +59,14 @@ int main(void)
   /* USER CODE END 2 */
 
   /* USER CODE BEGIN WHILE */
-  /* 主循环：三个函数各做一件事，都不等待外设，因此不会互相阻塞 */
+  /* 主循环：三个函数各做一件事，都不等待外设，因此不会互相阻塞。
+   * ★ 只看雷达数据处理的话，重点看第 2 行 n10p_radar_process()；
+   *   第 1 行只是接收出错后的恢复，第 3 行是 JSON 上报，都可以先跳过。 */
   while (1)
   {
-    radar_uart_poll();         /* 处理 USART1 接收错误：中止并重新启动接收（见 usart.c） */
-    n10p_radar_process();      /* 解析环形缓冲中的字节：组帧 → 校验 → 分圈 → 分组 → 生成快照 */
-    radar_telemetry_process(); /* 每 100 ms 把最新快照打包成 JSON，经 USART2 DMA 发出 */
+    radar_uart_poll();         /* 【接收保障，可跳过】处理 USART1 接收错误并重启接收 */
+    n10p_radar_process();      /* ★【雷达处理核心】组帧 → 校验 → 分圈 → 坐标换算 → 聚类 → 快照 */
+    radar_telemetry_process(); /* 【JSON 上报，可跳过】每 100 ms 把快照打包成 JSON 发出 */
     /* USER CODE END WHILE */
     /* USER CODE BEGIN 3 */
   }

@@ -76,3 +76,12 @@
 475	862	8140191224738762	CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj	1f96be0544a4b2ad
 529	995	8140191225283743	CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj	83fb7d56c94b46c4
 996	1355	8140191229945099	BuJinDianJi2.elf	5a8d82c5d94f7287
+229	1498	8140275144343247	CMakeFiles/BuJinDianJi2.dir/Core/Src/n10_radar.c.obj	936aa9965fb4c413
+247	1524	8140275144527709	CMakeFiles/BuJinDianJi2.dir/Core/Src/usart.c.obj	3ec62663fed2c4d4
+237	1548	8140275144433112	CMakeFiles/BuJinDianJi2.dir/Core/Src/radar_telemetry.c.obj	38198c2c47c5f3c4
+6	1568	8140275142121903	CMakeFiles/BuJinDianJi2.dir/Core/Src/main.c.obj	3e13ec89e5f5f734
+1568	2506	8140275157731276	BuJinDianJi2.elf	5a8d82c5d94f7287
+24	1248	8140307550388682	CMakeFiles/BuJinDianJi2.dir/Core/Src/n10_radar.c.obj	936aa9965fb4c413
+1249	1831	8140307562641186	BuJinDianJi2.elf	5a8d82c5d94f7287
+29	313	8140308005733948	CMakeFiles/BuJinDianJi2.dir/Core/Src/n10_radar.c.obj	936aa9965fb4c413
+313	669	8140308008585072	BuJinDianJi2.elf	5a8d82c5d94f7287

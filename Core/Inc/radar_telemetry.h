@@ -3,6 +3,11 @@
 
 /*
  * radar_telemetry.h —— 障碍物结果上报模块接口（USART2 + DMA）
+ *
+ * 【暂时可以先跳过】本模块只负责把 n10p_get_obstacle_snapshot() 交出来的
+ * 结果打包成 JSON 从 USART2 发走，不参与任何雷达数据处理。
+ * 雷达如何收数据、算角度、分圈、聚类，全部在 n10_radar.c。
+ *
  * 每 100 ms 输出一行 JSON 报告，实现与格式说明见 radar_telemetry.c。
  */
 

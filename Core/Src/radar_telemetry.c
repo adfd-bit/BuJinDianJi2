@@ -1,6 +1,9 @@
 /*
  * radar_telemetry.c —— 障碍物结果上报（USART2 + DMA）
  *
+ * 【暂时可以先跳过】本文件只做 JSON 打包和串口发送，
+ * 不参与雷达数据处理。雷达算法请看 Core/Src/n10_radar.c。
+ *
  * 功能：每 100 ms 把 n10_radar 给出的障碍物快照格式化成一行 ASCII JSON，
  *       经 USART2(PA2) 用 DMA 发给电脑端可视化程序。
  *

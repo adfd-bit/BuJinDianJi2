@@ -3546,43 +3546,43 @@ LOAD D:/arm-gnu-toolchain-13.2.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/
 LOAD D:/arm-gnu-toolchain-13.2.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v7-m/nofp\libm.a
 LOAD D:/arm-gnu-toolchain-13.2.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v7-m/nofp\libgcc.a
 
-.debug_info     0x00000000     0x8d48
+.debug_info     0x00000000     0x8d56
  .debug_info    0x00000000      0x2cf CMakeFiles/BuJinDianJi2.dir/Core/Src/dma.c.obj
  .debug_info    0x000002cf      0x169 CMakeFiles/BuJinDianJi2.dir/Core/Src/gpio.c.obj
  .debug_info    0x00000438      0x3af CMakeFiles/BuJinDianJi2.dir/Core/Src/main.c.obj
- .debug_info    0x000007e7      0xb2c CMakeFiles/BuJinDianJi2.dir/Core/Src/n10_radar.c.obj
- .debug_info    0x00001313      0xc68 CMakeFiles/BuJinDianJi2.dir/Core/Src/radar_telemetry.c.obj
- .debug_info    0x00001f7b      0x1f1 CMakeFiles/BuJinDianJi2.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_info    0x0000216c      0x631 CMakeFiles/BuJinDianJi2.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_info    0x0000279d      0x168 CMakeFiles/BuJinDianJi2.dir/Core/Src/sysmem.c.obj
- .debug_info    0x00002905      0x222 CMakeFiles/BuJinDianJi2.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_info    0x00002b27      0xd27 CMakeFiles/BuJinDianJi2.dir/Core/Src/usart.c.obj
- .debug_info    0x0000384e      0x704 CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_info    0x00003f52      0xa87 CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_info    0x000049d9      0x6d2 CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
- .debug_info    0x000050ab      0x5ab CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_info    0x00005656      0x7d5 CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_info    0x00005e2b     0x2eed CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- .debug_info    0x00008d18       0x30 CMakeFiles/BuJinDianJi2.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .debug_info    0x000007e7      0xb3a CMakeFiles/BuJinDianJi2.dir/Core/Src/n10_radar.c.obj
+ .debug_info    0x00001321      0xc68 CMakeFiles/BuJinDianJi2.dir/Core/Src/radar_telemetry.c.obj
+ .debug_info    0x00001f89      0x1f1 CMakeFiles/BuJinDianJi2.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_info    0x0000217a      0x631 CMakeFiles/BuJinDianJi2.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_info    0x000027ab      0x168 CMakeFiles/BuJinDianJi2.dir/Core/Src/sysmem.c.obj
+ .debug_info    0x00002913      0x222 CMakeFiles/BuJinDianJi2.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_info    0x00002b35      0xd27 CMakeFiles/BuJinDianJi2.dir/Core/Src/usart.c.obj
+ .debug_info    0x0000385c      0x704 CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_info    0x00003f60      0xa87 CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_info    0x000049e7      0x6d2 CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_info    0x000050b9      0x5ab CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_info    0x00005664      0x7d5 CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_info    0x00005e39     0x2eed CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_info    0x00008d26       0x30 CMakeFiles/BuJinDianJi2.dir/Core/Startup/startup_stm32f103c8tx.s.obj
 
-.debug_abbrev   0x00000000     0x2041
+.debug_abbrev   0x00000000     0x205c
  .debug_abbrev  0x00000000       0xfc CMakeFiles/BuJinDianJi2.dir/Core/Src/dma.c.obj
  .debug_abbrev  0x000000fc       0xc6 CMakeFiles/BuJinDianJi2.dir/Core/Src/gpio.c.obj
  .debug_abbrev  0x000001c2      0x1e9 CMakeFiles/BuJinDianJi2.dir/Core/Src/main.c.obj
- .debug_abbrev  0x000003ab      0x30c CMakeFiles/BuJinDianJi2.dir/Core/Src/n10_radar.c.obj
- .debug_abbrev  0x000006b7      0x31e CMakeFiles/BuJinDianJi2.dir/Core/Src/radar_telemetry.c.obj
- .debug_abbrev  0x000009d5       0xdb CMakeFiles/BuJinDianJi2.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_abbrev  0x00000ab0      0x178 CMakeFiles/BuJinDianJi2.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_abbrev  0x00000c28       0xbc CMakeFiles/BuJinDianJi2.dir/Core/Src/sysmem.c.obj
- .debug_abbrev  0x00000ce4      0x13f CMakeFiles/BuJinDianJi2.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_abbrev  0x00000e23      0x381 CMakeFiles/BuJinDianJi2.dir/Core/Src/usart.c.obj
- .debug_abbrev  0x000011a4      0x201 CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_abbrev  0x000013a5      0x2f8 CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_abbrev  0x0000169d      0x20b CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
- .debug_abbrev  0x000018a8      0x1ca CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_abbrev  0x00001a72      0x2b3 CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_abbrev  0x00001d25      0x2f8 CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- .debug_abbrev  0x0000201d       0x24 CMakeFiles/BuJinDianJi2.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .debug_abbrev  0x000003ab      0x327 CMakeFiles/BuJinDianJi2.dir/Core/Src/n10_radar.c.obj
+ .debug_abbrev  0x000006d2      0x31e CMakeFiles/BuJinDianJi2.dir/Core/Src/radar_telemetry.c.obj
+ .debug_abbrev  0x000009f0       0xdb CMakeFiles/BuJinDianJi2.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_abbrev  0x00000acb      0x178 CMakeFiles/BuJinDianJi2.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_abbrev  0x00000c43       0xbc CMakeFiles/BuJinDianJi2.dir/Core/Src/sysmem.c.obj
+ .debug_abbrev  0x00000cff      0x13f CMakeFiles/BuJinDianJi2.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_abbrev  0x00000e3e      0x381 CMakeFiles/BuJinDianJi2.dir/Core/Src/usart.c.obj
+ .debug_abbrev  0x000011bf      0x201 CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_abbrev  0x000013c0      0x2f8 CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_abbrev  0x000016b8      0x20b CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_abbrev  0x000018c3      0x1ca CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_abbrev  0x00001a8d      0x2b3 CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_abbrev  0x00001d40      0x2f8 CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_abbrev  0x00002038       0x24 CMakeFiles/BuJinDianJi2.dir/Core/Startup/startup_stm32f103c8tx.s.obj
 
 .debug_aranges  0x00000000      0x8b8
  .debug_aranges
@@ -3732,24 +3732,24 @@ LOAD D:/arm-gnu-toolchain-13.2.rel1-mingw-w64-i686-arm-none-eabi/bin/../lib/gcc/
  .debug_macro   0x00017780      0x1a0 CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
  .debug_macro   0x00017920      0x18f CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
 
-.debug_line     0x00000000     0xba14
+.debug_line     0x00000000     0xba13
  .debug_line    0x00000000      0x708 CMakeFiles/BuJinDianJi2.dir/Core/Src/dma.c.obj
  .debug_line    0x00000708      0x709 CMakeFiles/BuJinDianJi2.dir/Core/Src/gpio.c.obj
- .debug_line    0x00000e11      0x897 CMakeFiles/BuJinDianJi2.dir/Core/Src/main.c.obj
- .debug_line    0x000016a8     0x1201 CMakeFiles/BuJinDianJi2.dir/Core/Src/n10_radar.c.obj
- .debug_line    0x000028a9      0xbca CMakeFiles/BuJinDianJi2.dir/Core/Src/radar_telemetry.c.obj
- .debug_line    0x00003473      0x70d CMakeFiles/BuJinDianJi2.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_line    0x00003b80      0x803 CMakeFiles/BuJinDianJi2.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_line    0x00004383      0x32b CMakeFiles/BuJinDianJi2.dir/Core/Src/sysmem.c.obj
- .debug_line    0x000046ae      0x78b CMakeFiles/BuJinDianJi2.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_line    0x00004e39      0xaf5 CMakeFiles/BuJinDianJi2.dir/Core/Src/usart.c.obj
- .debug_line    0x0000592e      0x9bc CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_line    0x000062ea      0xb86 CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_line    0x00006e70      0xdc6 CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
- .debug_line    0x00007c36      0xa19 CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_line    0x0000864f      0xe75 CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_line    0x000094c4     0x24d8 CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- .debug_line    0x0000b99c       0x78 CMakeFiles/BuJinDianJi2.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .debug_line    0x00000e11      0x899 CMakeFiles/BuJinDianJi2.dir/Core/Src/main.c.obj
+ .debug_line    0x000016aa     0x11fe CMakeFiles/BuJinDianJi2.dir/Core/Src/n10_radar.c.obj
+ .debug_line    0x000028a8      0xbca CMakeFiles/BuJinDianJi2.dir/Core/Src/radar_telemetry.c.obj
+ .debug_line    0x00003472      0x70d CMakeFiles/BuJinDianJi2.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_line    0x00003b7f      0x803 CMakeFiles/BuJinDianJi2.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_line    0x00004382      0x32b CMakeFiles/BuJinDianJi2.dir/Core/Src/sysmem.c.obj
+ .debug_line    0x000046ad      0x78b CMakeFiles/BuJinDianJi2.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_line    0x00004e38      0xaf5 CMakeFiles/BuJinDianJi2.dir/Core/Src/usart.c.obj
+ .debug_line    0x0000592d      0x9bc CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_line    0x000062e9      0xb86 CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_line    0x00006e6f      0xdc6 CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_line    0x00007c35      0xa19 CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_line    0x0000864e      0xe75 CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_line    0x000094c3     0x24d8 CMakeFiles/BuJinDianJi2.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_line    0x0000b99b       0x78 CMakeFiles/BuJinDianJi2.dir/Core/Startup/startup_stm32f103c8tx.s.obj
 
 .debug_str      0x00000000    0x83563
  .debug_str     0x00000000    0x83563 CMakeFiles/BuJinDianJi2.dir/Core/Src/dma.c.obj
