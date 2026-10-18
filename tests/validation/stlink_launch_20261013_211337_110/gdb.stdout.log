@@ -1,0 +1,19 @@
+0x08002414 in HAL_UART_RxCpltCallback (huart=0x8002447 <HAL_UART_ErrorCallback+46>) at ../Core/Src/usart.c:246
+246	}
+Loading section .isr_vector, size 0x10c lma 0x8000000
+Loading section .text, size 0x60e4 lma 0x800010c
+Loading section .rodata, size 0x638 lma 0x80061f0
+Loading section .init_array, size 0x4 lma 0x8006828
+Loading section .fini_array, size 0x4 lma 0x800682c
+Loading section .data, size 0x5c lma 0x8006830
+Start address 0x08002498, load size 26764
+Transfer rate: 12 KB/sec, 3823 bytes/write.
+Temporary breakpoint 1 at 0x800081c: file ../Core/Src/main.c, line 30.
+Note: automatically using hardware breakpoints for read-only addresses.
+
+Temporary breakpoint 1, main () at ../Core/Src/main.c:30
+30	  HAL_Init();
+ENTRY_MAIN_PC=0x800081c
+#0  main () at ../Core/Src/main.c:30
+[Inferior 1 (Remote target) detached]
+MCU_DETACHED_RUNNING

@@ -1,0 +1,13 @@
+../Core/Inc/common.h:34:20:ring_buf_init	16	static
+../Core/Inc/common.h:48:20:ring_buf_put	24	static
+../Core/Src/usart.c:56:6:MX_USART1_UART_Init	8	static
+../Core/Src/usart.c:85:6:MX_USART2_UART_Init	8	static
+../Core/Src/usart.c:101:6:HAL_UART_MspInit	48	static
+../Core/Src/usart.c:159:6:HAL_UART_MspDeInit	16	static
+../Core/Src/usart.c:195:13:request_rx_recovery	4	static
+../Core/Src/usart.c:205:6:radar_uart_start	24	static
+../Core/Src/usart.c:224:6:radar_uart_poll	32	static
+../Core/Src/usart.c:253:10:radar_uart_errors	4	static
+../Core/Src/usart.c:260:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/usart.c:281:6:HAL_UART_ErrorCallback	16	static
+../Core/Src/usart.c:296:6:HAL_UART_TxCpltCallback	16	static

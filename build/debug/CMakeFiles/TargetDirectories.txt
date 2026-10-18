@@ -1,0 +1,3 @@
+D:/Users/twyyd/xwechat_files/wxid_qc7gu0msvtzj22_e29d/msg/file/2026-10/BuJinDianJi2/BuJinDianJi2/build/debug/CMakeFiles/BuJinDianJi2.dir
+D:/Users/twyyd/xwechat_files/wxid_qc7gu0msvtzj22_e29d/msg/file/2026-10/BuJinDianJi2/BuJinDianJi2/build/debug/CMakeFiles/edit_cache.dir
+D:/Users/twyyd/xwechat_files/wxid_qc7gu0msvtzj22_e29d/msg/file/2026-10/BuJinDianJi2/BuJinDianJi2/build/debug/CMakeFiles/rebuild_cache.dir

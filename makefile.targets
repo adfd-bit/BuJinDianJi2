@@ -1,0 +1,8 @@
+# Preserve firmware output generation when CubeIDE regenerates Debug/makefile.
+secondary-outputs: BuJinDianJi2.bin BuJinDianJi2.hex
+
+BuJinDianJi2.bin: BuJinDianJi2.elf
+	arm-none-eabi-objcopy -O binary "$<" "$@"
+
+BuJinDianJi2.hex: BuJinDianJi2.elf
+	arm-none-eabi-objcopy -O ihex "$<" "$@"

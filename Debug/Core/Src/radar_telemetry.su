@@ -1,0 +1,11 @@
+../Core/Src/radar_telemetry.c:54:13:append_json	36	static
+../Core/Src/radar_telemetry.c:69:13:unsigned_meters	32	static
+../Core/Src/radar_telemetry.c:78:13:signed_meters	48	static
+../Core/Src/radar_telemetry.c:90:13:format_report	216	static
+../Core/Src/radar_telemetry.c:146:6:radar_telemetry_init	16	static
+../Core/Src/radar_telemetry.c:160:6:radar_telemetry_tx_complete	4	static
+../Core/Src/radar_telemetry.c:166:6:radar_telemetry_tx_error	4	static
+../Core/Src/radar_telemetry.c:174:13:finish_transmission	24	static
+../Core/Src/radar_telemetry.c:200:13:queue_latest_report	16	static
+../Core/Src/radar_telemetry.c:221:13:begin_transmission	24	static
+../Core/Src/radar_telemetry.c:247:6:radar_telemetry_process	16	static

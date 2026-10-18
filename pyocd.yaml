@@ -1,0 +1,4 @@
+# Horco exposes both CMSIS-DAP v1 (HID) and v2 (WinUSB). The v1 endpoint
+# is the compatible interface for this probe firmware on Windows.
+cmsis_dap__prefer_v1: true
+cmsis_dap__limit_packets: true
